@@ -1,0 +1,53 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3%;
+}
+
+#btn {
+  width: 100px;
+  height: 75px;
+  cursor: pointer;
+  border: none;
+  background-color: #0dc1c7;
+  border-radius: 5px;
+  color: #fff;
+  transition: linear 0.5s;
+}
+
+#container {
+  width: 100px;
+  height: 75px;
+  margin: 5% 46.3%;
+  background-color: #ff0000;
+  transition: linear 2s;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#ball {
+  width: 100px;
+  height: 100px;
+  background-color: #0ddb1e;
+  margin-left: 0.5%;
+  border-radius: 50%;
+  transition: ease-in-out 3.5s;
+}
+
+#btnBall {
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+  border: none;
+  background-color: #0ddb1e;
+  border-radius: 5px;
+  color: #fff;
+  margin: 5% 46.3%;
+}/*# sourceMappingURL=index.css.map */
